@@ -303,3 +303,10 @@ footer {
 
   nav ul { gap: 1.2rem; }
 }
+
+.project-image {
+  background: var(--bg-off);
+  border: 1px solid var(--border);
+  overflow: hidden;
+  border-radius: 12px;
+}
